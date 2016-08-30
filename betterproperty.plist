@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://58.247.84.198:9004/WiseHousehold/ipa/betterproperty.ipa</string>
+                    <string>http://192.168.0.25/LCUPlus/ipa/betterproperty.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://58.247.84.198:9004/WiseHousehold/ipa/icon_120.jpg</string>
+                    <string>http://192.168.0.25/LCUPlus/ipa/icon_120.jpg</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://58.247.84.198:9004/WiseHousehold/ipa/icon_120.jpg</string>
+                    <string>http://192.168.0.25/LCUPlus/ipa/icon_120.jpg</string>
                 </dict>
             </array>
             <key>metadata</key>
